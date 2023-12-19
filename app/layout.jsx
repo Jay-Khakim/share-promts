@@ -1,12 +1,12 @@
 import '@styles/globals.css'
-import { Children } from 'react'
+
 
 export const metadata = {
     title: "Promtopia",
     description: "Discover & Share AI Promts"
 }
 
-const RootLayout = () => {
+const RootLayout = ({children}) => {
   return (
     <html lang='en'>
         <body>
@@ -15,7 +15,7 @@ const RootLayout = () => {
             </div>
 
             <main className='app'>
-                {Children}
+                {children}
             </main> 
         </body>
     </html>
