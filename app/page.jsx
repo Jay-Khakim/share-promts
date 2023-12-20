@@ -1,4 +1,4 @@
-
+import Feed from "@components/Feed"
 
 const Home = () => {
   return (
@@ -11,6 +11,8 @@ const Home = () => {
        <p className="desc text-center">
         Promptopia is an open-source AI promting tool for modern world to discover, create and share creative promts
        </p>
+
+       <Feed/>
     </section>
    
   )
