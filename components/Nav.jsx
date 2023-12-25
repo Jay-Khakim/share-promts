@@ -73,10 +73,6 @@ const Nav = () => {
                     <Link href="/create-prompt" className="dropdown_link" onClick={()=> setToggleDropdown(false)}>
                       Create Prompt
                     </Link>
-
-
-
-
                     <button type="button" onClick={()=> {setToggleDropdown(false); signOut}} className="mt-5 w-full black_btn">
                       Sign Out
                     </button>
