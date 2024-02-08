@@ -7,8 +7,23 @@ import {useRouter} from 'next/navigation'
 import Form from "@components/Form"
 
 const CreatePromt = () => {
+  const [submitting, setSubmitting] = useState(false)
+  const [post, setPost] = useState({
+    promt: "",
+    tag: ""
+  })
+
+  const createPromt = async (e)=>{
+
+  }
   return (
-    <div>CreatePromt</div>
+    <Form
+      type="Create"
+      post={post}
+      setPost={setPost}
+      submitting={submitting}
+      handleSubmit={createPromt}
+    />
   )
 }
 
