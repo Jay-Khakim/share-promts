@@ -64,6 +64,7 @@ const PromtCard = ({ post, handleTagClick, handleEdit, handleDelete }) => {
 						{" "}
 						Edit
 					</p>
+					
 					<p
 						className="font-inter text-sm orange_gradient cursor-pointer"
 						onClick={handleDelete}>
