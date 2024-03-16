@@ -7,6 +7,12 @@ import { usePathname, useRouter } from "next/navigation";
 
 const PromtCard = ({ post, handleTagClick, handleEdit, handleDelete }) => {
 	const [copied, setCopied] = useState("");
+
+	const handleCopy = () => {
+		setCopied(post.prompt);
+		navigator.clipboard.writeText(post.prompt);
+		setTimeout(() => setCopie(""), 3000);
+	};
 	return (
 		<div className="prompt_card">
 			<div className="flex justify-between items-start gap-5">
