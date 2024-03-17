@@ -1,8 +1,8 @@
-# Promptopia | React JS, TailwindCSS, Next,.js 14
+# Promptopia | React.js, TailwindCSS, Next.js 14
 
 > This website can be used as porfolio for web app developers. Showcasing my background works, strong sides, feedbacks from others and contact information. 
 
-> Demo web site: [https://jay-khakim.github.io/3d_portfolio/](https://share-promts-ld75-iqam0ogk4-jaykhakims-projects.vercel.app/)
+> Demo web site: [https://share-promts-ld75-iqam0ogk4-jaykhakims-projects.vercel.app/](https://share-promts-ld75-iqam0ogk4-jaykhakims-projects.vercel.app/)
 
 1. Next.js 14 App Folder Structure ✅            
 2. Next.js 14 Client Components vs Server Components ✅          
