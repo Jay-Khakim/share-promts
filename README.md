@@ -1,24 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia | React JS, TailwindCSS, Next,.js 14
 
-## Getting Started
+> This website can be used as porfolio for web app developers. Showcasing my background works, strong sides, feedbacks from others and contact information. 
 
-First, run the development server:
+> Demo web site: [https://jay-khakim.github.io/3d_portfolio/](https://share-promts-ld75-iqam0ogk4-jaykhakims-projects.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Next.js 14 App Folder Structure ✅            
+2. Next.js 14 Client Components vs Server Components ✅          
+3. TailwindCSS - a popular utility-first CSS styling framework✅
+4. Next.js 14 File-based Routing (including dynamic and nested routes)x✅
+5. Next.js 14 page, layout, loading, and error Special Files✅
+6. Next.js 14 Serverless Route Handlers (Next API, Full Stack Apps).✅
+7. Next.js 14 Metadata and Search Engine Optimization (SEO)✅
+8. Three ways to fetch data in Next.js:
+   - Server Side Rendering (SSR)✅
+   - Static Site Generation (SSG)✅
+   - Incremental Static Generation (ISR)✅
+9. Google OAUTH✅
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 1. Main UI
+
+![image](https://github.com/Jay-Khakim/share-promts/assets/68965155/0e68222f-3b7a-43bd-be29-ff6e193bb809)
+
+
+
+
+---
+
+## 2. After logging
+
+![image](https://github.com/Jay-Khakim/share-promts/assets/68965155/d6214198-8af8-4b94-a955-456c174b9889)
+
+
+
+
+---
+
+## 3. Creating post
+
+![image](https://github.com/Jay-Khakim/share-promts/assets/68965155/47659c4e-a5d9-4523-bda8-732a7972cdc9)
+
+
+
+---
+
+## 4. Profile page
+
+![image](https://github.com/Jay-Khakim/share-promts/assets/68965155/aa20416b-fbf9-4a48-8b37-075833c57499)
+
+
+
+---
+
+
 
 ## Learn More
 
